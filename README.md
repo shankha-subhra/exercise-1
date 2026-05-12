@@ -31,13 +31,13 @@ Download this repository from GitHub and place it inside your XAMPP `htdocs` fol
 Example:
 
 ```txt
-C:\xampp\htdocs\exercise-3
+C:\xampp\htdocs\exercise-1
 ```
 
 Your local project URL should be:
 
 ```txt
-http://localhost/exercise-3/
+http://localhost/exercise-1/
 ```
 
 ---
